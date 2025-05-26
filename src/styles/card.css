@@ -9,7 +9,6 @@
 .image img{
     width: 200px;
     height: 200px;
-    border-radius: 100%;
     text-align: center;
     object-fit: cover;
     object-position: center;
